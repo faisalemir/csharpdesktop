@@ -1,0 +1,12 @@
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.Home.resources
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.Properties.Resources.resources
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\bin\Debug\Belajar.exe.config
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\bin\Debug\Belajar.exe
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\bin\Debug\Belajar.pdb
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\bin\Debug\Data.dll
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\bin\Debug\Data.pdb
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.exe
+d:\Documents\Visual Studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.pdb
+d:\documents\visual studio 2012\Projects\Belajar\Belajar\obj\Debug\Belajar.FormInput.resources

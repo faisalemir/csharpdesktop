@@ -1,0 +1,4 @@
+d:\Documents\Visual Studio 2012\Projects\Belajar\Data\bin\Debug\Data.dll
+d:\Documents\Visual Studio 2012\Projects\Belajar\Data\bin\Debug\Data.pdb
+d:\Documents\Visual Studio 2012\Projects\Belajar\Data\obj\Debug\Data.dll
+d:\Documents\Visual Studio 2012\Projects\Belajar\Data\obj\Debug\Data.pdb

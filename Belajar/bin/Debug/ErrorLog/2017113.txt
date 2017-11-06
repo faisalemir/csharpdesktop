@@ -1,0 +1,8 @@
+11/3/2017 7:47:57 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 7:48:10 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 8:21:49 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 8:39:41 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 8:39:51 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 8:39:56 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 8:40:04 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
+11/3/2017 8:41:17 PM ==> [DataMahasiswa -> selectall] Specified cast is not valid.
